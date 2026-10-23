@@ -1,0 +1,21 @@
+GITHUB YUKLEME ADIMLARI
+
+1. Bu ZIP dosyasini telefonunda veya bilgisayarinda klasore cikar.
+2. GitHub deposunun ana sayfasinda Add file > Upload files > choose your files sec.
+3. Cikardigin klasorun ICINDEKI index.html ve .js dosyalarini sec.
+   Klasoru veya ZIP dosyasini yukleme.
+4. Her seferinde yaklasik 6 dosya yukle, bitince Commit changes tusuna bas.
+   Sonra kalan dosyalar icin ayni islemi tekrarla.
+5. Toplam 47 uygulama dosyasi olmali: index.html ve 46 adet .js dosyasi.
+   Tum dosyalar GitHub deposunun ana dizininde, yan yana olmali.
+   Bu dosyalar icin data veya baska bir alt klasor olusturma.
+6. .nojekyll gorunuyorsa onu da yukle. Gorunmuyorsa GitHub'da
+   Add file > Create new file ile .nojekyll adinda bir dosya olustur.
+   Icerigine tek bir bosluk koyup Commit changes ile kaydet.
+7. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+ONEMLI
+Bu paket icin index.html, yeni ve kucuk surumdur. Onceki index.html varsa
+ayni isimle guncelle. Eski buyuk Pediatri_Hafiza.html dosyasini yukleme.
+PDF ve logo dosyalari paketin icindedir; ayri PDF yuklemene gerek yok.
+Bu talimat dosyasini yuklemen gerekmez.
